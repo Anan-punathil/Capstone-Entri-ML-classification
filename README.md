@@ -1,1 +1,1 @@
-# Capstone-Entri-ML-Regression
+# Capstone-Entri-ML-classification
